@@ -1,39 +1,31 @@
 ---
-title: Dish Title
-tags: ['beef', 'soup', 'german']
+title: Rezept Titel
+tags: ['Rindfleisch', 'Suppe', 'deutsch']
 date: 2022-02-20
-author: "Your Name"
 ---
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
+Falls nötig, gib eine sehr kurze Beschreibung des Gerichts in einem oder zwei Sätzen an.
+Für die meisten Gerichte ist dies unnötig.
+Wenn es ein Titelbild dieses Gerichts gibt, sollte es über diesem Absatz stehen.
+Du kannst auch die Vorbereitungs-/Kochzeit und die Anzahl der Portionen wie unten angeben.
+Weitere Angaben sind auch möglich.
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 30 min
-- 🍽️ Servings: 4
+- ⏲️ Vorbereitungszeit: 10 Min
+- 🍳 Kochzeit: 30 Min
+- 🍽️ Portionen: 4
 
-## Ingredients
+## Zutaten
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
+- Es muss eine leere Zeile über allen Listen stehen.
+- Liste die Zutaten
+- Liste Mengenangaben falls nötig.
+- Setze (optional) ans Ende von optionalen Zutaten
 
-## Directions
+## Zubereitung
 
-1. Now using an ordered list,
-2. give the directions to prepare the dish.
-3. Do **not** add unnecessary blank lines between items.
-4. If necessary,
-5. an image can be included between some directions if needed to explain something particular.
-6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
-
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.
+1. Nun mit einer geordneten Liste,
+2. gib die Anweisungen zur Zubereitung des Gerichts an.
+3. Füge **keine** unnötigen Leerzeilen zwischen den Elementen ein.
+4. Falls nötig,
+5. kann ein Bild zwischen einigen Anweisungen eingefügt werden, wenn es etwas Besonderes zu erklären gibt.
+6. Dies sollte jedoch auf ein Minimum reduziert werden, um die Bandbreite zu reduzieren und die Einfachheit zu fördern.

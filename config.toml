@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
-languageCode = 'en-us'
-title = 'Based Cooking'
+baseURL = 'https://lichtensteiger.pro/'
+languageCode = 'de-ch'
+title = 'Familien Rezepte'
 theme = 'lugo'
 
 [params]
