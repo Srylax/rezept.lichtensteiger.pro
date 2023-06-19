@@ -19,5 +19,5 @@ und wohltuend.
 
 ## Zubereitung
 
-1. Zerkleinern Sie aile Zutaten grob
-und geben Sie diese in einen Entsafter wie den Excalibur Entsafter Vertikal
+1. Zerkleinern Sie alle Zutaten grob
+und geben Sie diese in einen Entsafter.
