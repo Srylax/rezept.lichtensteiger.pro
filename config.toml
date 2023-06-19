@@ -1,4 +1,4 @@
-baseURL = 'https://lichtensteiger.pro/'
+baseURL = 'https://rezepte.lichtensteiger.pro/'
 languageCode = 'de-ch'
 title = 'Familien Rezepte'
 theme = 'lugo'
