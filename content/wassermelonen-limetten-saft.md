@@ -1,7 +1,7 @@
 ---
 title: Wassermelonen Limetten Saft
 tags: ['rohkost', 'getränk', 'vegan']
-date: 2022-02-20
+date: 2023-06-19
 ---
 
 Dieses Rezept besteht aus nur wenigen
