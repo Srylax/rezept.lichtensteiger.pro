@@ -11,7 +11,7 @@ Du kannst auch die Vorbereitungs-/Kochzeit und die Anzahl der Portionen wie unte
 Weitere Angaben sind auch möglich.
 
 - ⏲️ Vorbereitungszeit: 10 Min
-- 🍳 Kochzeit: 30 Min
+- 🍳 Zubereitungszeit: 30 Min
 - 🍽️ Portionen: 4
 
 ## Zutaten

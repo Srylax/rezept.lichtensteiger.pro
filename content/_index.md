@@ -4,8 +4,6 @@ description: 'The fast-loading recipe site with cooking only and no ads.'
 layout: single
 ---
 
-## What do you want to cook?
-
 <div class="search js-only">
   <input type="text" id="search" placeholder="Suche nach allen Rezepten...">
   <button id="clear-search">

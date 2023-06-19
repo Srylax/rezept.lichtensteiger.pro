@@ -6,8 +6,7 @@ date: 2023-06-19
 
 
 - ⏲️ Vorbereitungszeit: Eine Nacht
-- 🍳 Kochzeit: 10 Min
-- 🍽️ Portionen: ?
+- 🍳 Zubereitungszeit: 10 Min
 
 ## Zutaten
 
