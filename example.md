@@ -1,6 +1,6 @@
 ---
 title: Rezept Titel
-tags: ['Rindfleisch', 'Suppe', 'deutsch']
+tags: ['rindfleisch', 'suppe', 'deutsch']
 date: 2022-02-20
 ---
 
